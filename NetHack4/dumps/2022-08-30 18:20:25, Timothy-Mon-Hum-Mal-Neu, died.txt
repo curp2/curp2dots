@@ -1,0 +1,162 @@
+Timothy, neutral male human Monk
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                ------------.--                
+                                                ..............|                
+                                                |<............|                
+                                                ..............|      --------  
+                                                |.............-######-.)/*?(|  
+                                                |.............|      |@@[(?[|  
+                                                ---------------      |.=)+)=|  
+                                                                     |.))[).|  
+                                                                     |.[+)=*|  
+                                                                     --------  
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+Timothy the Novice
+  Experience level: 3
+  Strength: 18
+  Dexterity: 15
+  Constitution: 11
+  Intelligence: 9
+  Wisdom: 13
+  Charisma: 9
+  Health: 0(28)
+  Energy: 11(11)
+  Def: 6
+  Gold: 0
+  Moves: 481
+
+
+Your Inventory:
+  Armor
+  e - an uncursed +2 pair of leather gloves (being worn)
+  n - an uncursed +1 robe (being worn)
+  Comestibles
+  f - 3 uncursed food rations
+  g - 5 uncursed apples
+  h - 5 uncursed oranges
+  i - 4 uncursed fortune cookies
+  o - an uncursed tripe ration
+  Scrolls
+  b - an uncursed scroll of create monster
+  Spellbooks
+  a - a blessed spellbook of healing
+  s - an uncursed spellbook of identify
+  Potions
+  c - a blessed potion of healing
+  d - 2 uncursed potions of healing
+  Tools
+  k - an uncursed bell
+  m - an uncursed mirror
+  Gems
+  q - 11 uncursed rocks (in quiver)
+
+Spells known in the end:
+  Name         Level  Category       Fail    Memory
+  a - healing      1      healing        0%      98%   
+  b - identify     3      divination     88%     100%  
+
+Your skills at the end:
+  Fighting Skills
+   martial arts   [Basic]
+  Weapon Skills
+  Spellcasting Skills
+   healing spells [Basic]
+
+Final Attributes:
+  You had transgressed.     
+  You were sleep resistant. 
+  You were poison resistant.
+  You were hallucinating.   
+  You saw invisible.        
+  You were fast.            
+  You were unlucky.         
+  You are dead.             
+
+Vanquished creatures:
+  a small mimic                 
+  a kitten                      
+  a grid bug                    
+  2 lichens                     
+  2 newts                       
+  and a partridge in a pear tree
+                                
+  7 creatures vanquished.       
+
+Voluntary challenges:
+  You went without food.                                                            
+  You were an atheist.                                                              
+  You never hit with a wielded weapon.                                              
+  You read items or engraved 30 times, starting on turn 8.                          
+  You never genocided any monsters.                                                 
+  You never polymorphed an object.                                                  
+  You never changed form.                                                           
+  You used no wishes.                                                               
+  You never split a pudding.                                                        
+  You wrote Elbereth's name 18 times, starting on turn 8.                           
+  You violated your moral code, losing 25 points of alignment, starting on turn 181.
+
+Dungeon overview:
+                              
+  The Dungeons of Doom: levels 1 to 2
+  Level 1                     
+        some fountains, a sink
+        a long staircase      
+  Level 2 <- You were here    
+        an armor shop         
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:181 you advanced to experience level 2.                             
+  On T:216 you advanced to experience level 3.                             
+  On T:430 you reached level 2 of The Dungeons of Doom.                    
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               3 levels             ( 7878 points)
+  Exploration:              2 levels   (  4.35%) ( 4472 points)
+  Discoveries:              3 items    (  1.07%) ( 3105 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         5 monsters (  1.31%) ( 3436 points)
+  Time penalty:           481 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    15112        
+
+Latest messages:
+  You miss the white rabbit.
+  The arch-lich gets angry!
+  The black unicorn zaps an ebony wand!
+  The wand hits you!
+  The Olog-hai zaps a wand of striking!
+  The wand misses you.
+  The pit viper zaps a wand of striking!
+  The wand hits you!
+  You die...
+  Aksaray takes all your possessions.
+  <Do you want to see what you had when you died? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want an account of creatures vanquished? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye Timothy the Monk, killed by a wand...                         
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 2 with 15112 points,
+  and 0 pieces of gold, after 481 moves.                                
+  You were level 3 with a maximum of 28 hit points when you died.       
+                                                                        
+

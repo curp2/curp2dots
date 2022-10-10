@@ -1,0 +1,14 @@
+
+USRRESOURCES=$HOME/.Xresources
+/home/rp/.fehbg & 
+xbanish &
+nm-applet &
+dwmblocks &
+/usr/bin/dunst &
+sudo sxhkd -c /home/rp/.config/sxhkd/sxhkdrc &
+picom --daemon
+#daemonize "/usr/bin/spotifyd" --no-daemon
+echo "OFF" > /var/tmp/manual/battmode
+deluged
+#xrdb /home/rp/.Xresources
+blueman-applet &

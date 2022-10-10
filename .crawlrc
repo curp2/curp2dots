@@ -1,0 +1,11 @@
+tile_cell_pixels = 64
+
+tile_font_crt_size = 30
+
+tile_font_stat_size = 30
+
+tile_font_msg_size = 30
+
+tile_font_tip_size = 30
+
+tile_font_lbl_size = 30

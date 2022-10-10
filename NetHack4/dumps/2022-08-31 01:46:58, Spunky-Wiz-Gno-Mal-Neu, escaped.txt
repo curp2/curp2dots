@@ -1,0 +1,145 @@
+Spunky, neutral male gnomish Wizard
+                                                                               
+   -------     ------         -----------                                      
+   |.....|     |....|         |.........|                                      
+   |......#    |....|         |.........|                                      
+   |.....|     |....|#        |.........|                                      
+   ----|--     |....|#        |.........|                                      
+       #       |.>..|#        |.........|       #                              
+       #       ----%-#        --.-----+--       #                              
+       ###        ## #         ##     ##      ###                              
+         #        #  #         #       #      #                                
+        #################################   ###                                
+       -|-.-------%  #       #       -|-.---#                                  
+       |...%f....|#######    #    ###-.^...|#                                  
+       |.....@...|   # -|----.--- #  |......#                                  
+       |.........-#  # |........| #  |.....|                                   
+       -----------   # |........|    -------                                   
+                     ##|........|                                              
+                       ----------                                              
+                                                                               
+                                                                               
+                                                                               
+Spunky the Evoker
+  Experience level: 2
+  Strength: 12
+  Dexterity: 12
+  Constitution: 14
+  Intelligence: 19
+  Wisdom: 9
+  Charisma: 10
+  Health: 14(16)
+  Energy: 12(13)
+  Def: 1
+  Gold: 147
+  Moves: 635
+
+
+Your Inventory:
+  Coins
+  $ - 147 gold pieces
+  Weapons
+  a - a blessed +1 quarterstaff (weapon in hands)
+  Armor
+  e - an uncursed +0 cloak of magic resistance (being worn)
+  Scrolls
+  i - an uncursed scroll of destroy armor
+  j - a blessed scroll of taming
+  k - an uncursed scroll of confuse monster
+  n - a cursed scroll of remove curse
+  Spellbooks
+  l - a blessed spellbook of force bolt
+  m - an uncursed spellbook of detect food
+  Potions
+  f - an uncursed potion of monster detection
+  g - an uncursed potion of extra healing
+  h - an uncursed potion of sickness
+  Rings
+  c - an uncursed ring of sustain ability
+  d - an uncursed ring of poison resistance
+  Wands
+  b - a wand of polymorph (0:8)
+
+Spells known in the end:
+  Name            Level  Category       Fail    Memory
+  a - force bolt      1      attack         0%      97%   
+  b - detect food     2      divination     56%     97%   
+
+Your skills at the end:
+  Fighting Skills
+  Weapon Skills
+   quarterstaff       [Basic]
+  Spellcasting Skills
+   attack spells      [Basic]
+   enchantment spells [Basic]
+
+Final Attributes:
+  You were aligned.        
+  You were magic-protected.
+  You had infravision.     
+  You survived.            
+
+Vanquished creatures:
+  3 jackals               
+  a goblin                
+  5 grid bugs             
+  4 lichens               
+  2 newts                 
+                          
+  15 creatures vanquished.
+
+Voluntary challenges:
+  You went without food.                                   
+  You were an atheist.                                     
+  You used a wielded weapon 13 times, starting on turn 1.  
+  You read items or engraved 2 times, starting on turn 133.
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You never changed form.                                  
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You wrote Elbereth's name 2 times, starting on turn 133. 
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                          
+  The Dungeons of Doom: levels 1 to 2
+  Level 1 <- You were here
+        a long staircase  
+  Level 2                 
+        a fountain        
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:70 you reached level 2 of The Dungeons of Doom.                     
+  On T:589 you advanced to experience level 2.                             
+
+Score breakdown:
+  Gold:                   147                    ( 7382 points)
+  Experience:               2 levels             ( 5570 points)
+  Exploration:              2 levels   (  3.77%) ( 4160 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value:          0                    (    0 points)
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         5 monsters (  1.31%) ( 3436 points)
+  Time penalty:           635 turns              (    0 points)
+  Survival:          survived  (score multiplied by 100%)      
+                                                               
+  Total score:                                    20548        
+
+Latest messages:
+  <Beware, there will be no return! Still climb? [yn]: y>
+  <Do you want your possessions identified? [ynq]: q>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye Spunky the Wizard, escaped...                             
+                                                                    
+  You and Bean                                                      
+  escaped from the dungeon with 20548 points,                       
+  and 147 pieces of gold, after 635 moves.                          
+  You were level 2 with a maximum of 16 hit points when you escaped.
+                                                                    
+

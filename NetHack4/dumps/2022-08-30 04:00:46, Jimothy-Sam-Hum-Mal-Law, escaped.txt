@@ -1,0 +1,114 @@
+Jimothy, lawful male human Samurai
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             -.-.--                                            
+                             |....|                                            
+                             |..@..                                            
+                             |....|                                            
+                             |...d|                                            
+                             ------                                            
+                                                                               
+Jimothy the Hatamoto
+  Experience level: 1
+  Strength: 15
+  Dexterity: 16
+  Constitution: 18
+  Intelligence: 9
+  Wisdom: 9
+  Charisma: 8
+  Health: 15(15)
+  Energy: 2(2)
+  Def: 6
+  Gold: 0
+  Moves: 10
+
+
+Your Inventory:
+  Weapons
+  a - a +0 katana (weapon in hand)
+  b - a +0 wakizashi (alternate weapon; not wielded)
+  c - a +0 yumi
+  d - 26 +0 ya (in quiver)
+  Armor
+  e - an uncursed rustproof +0 splint mail (being worn)
+
+Spells known in the end:
+  Name Level Category Fail Memory
+
+Your skills at the end:
+  Fighting Skills
+   martial arts [Basic]
+  Weapon Skills
+   short sword  [Basic]
+   long sword   [Basic]
+   bow          [Basic]
+  Spellcasting Skills
+
+Final Attributes:
+  You were fervently aligned.
+  You were fast.             
+  You survived.              
+
+Voluntary challenges:
+  You went without food.                      
+  You were an atheist.                        
+  You never hit with a wielded weapon.        
+  You were a pacifist.                        
+  You were illiterate.                        
+  You never genocided any monsters.           
+  You never polymorphed an object.            
+  You never changed form.                     
+  You used no wishes.                         
+  You never split a pudding.                  
+  You never wrote Elbereth's name.            
+  You never violated your personal moral code.
+
+Dungeon overview:
+                          
+  The Dungeons of Doom:
+  Level 1 <- You were here
+        a long staircase  
+
+Score breakdown:
+  Gold:                     0                    (    0 points)
+  Experience:               1 level              (    0 points)
+  Exploration:              1 level    (  2.08%) (    0 points)
+  Discoveries:              0 items    (  0.00%) (    0 points)
+  Valuables value:          0                    (    0 points)
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         0 monsters (  0.00%) (    0 points)
+  Time penalty:            10 turns              (    0 points)
+  Survival:          survived  (score multiplied by 100%)      
+                                                               
+  Total score:                                        0        
+
+Latest messages:
+  <Beware, there will be no return! Still climb? [yn]: y>
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Sayonara Jimothy the Samurai, escaped...                          
+                                                                    
+  You escaped from the dungeon with 0 points,                       
+  and 0 pieces of gold, after 10 moves.                             
+  You were level 1 with a maximum of 15 hit points when you escaped.
+                                                                    
+

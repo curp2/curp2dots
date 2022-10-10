@@ -1,0 +1,153 @@
+Jefferina, lawful female human Samurai
+                                                                               
+                           ------                              ------          
+                           |....|                            ##-....|          
+                           |....-#                           # |....|          
+                          #.....|#                         ####.....|          
+                        ###--.---#                         #   ------          
+                        #    #   #       #############   ###    #              
+                        #    ### #           #  -----#   #      #              
+                        #      # #         ###  |...|# ###      #              
+                        #      F########   #    |...|# #        ###            
+             -----------#      @-------.-###    |.{%.########` ## #            
+             |....>....|#      #|.....%..#    ##....|#         -.-.-----       
+             |.........|#      #|....(..|     # |...|#         |.......|       
+             |.....^.(.|#      #|.......|   ### -----##########........|       
+             |.........|#      #|...<...|   #                  |.......|       
+             |..........#      #.........###                   |.......|       
+             -----------        ---------                      |.......|       
+                                                               |.......|       
+                                                               ---------       
+                                                                               
+                                                                               
+Jefferina the Ronin
+  Experience level: 3
+  Strength: 15
+  Dexterity: 15
+  Constitution: 14
+  Intelligence: 10
+  Wisdom: 8
+  Charisma: 7
+  Health: 0(30)
+  Energy: 8(8)
+  Def: 7
+  Gold: 268
+  Moves: 1012
+
+
+Your Inventory:
+  Coins
+  $ - 268 gold pieces
+  Weapons
+  a - a blessed rusty corroded +0 katana (alternate weapon; not wielded)
+  b - a +0 wakizashi (weapon in hand)
+  c - a +0 yumi
+  d - 33 +0 ya (in quiver)
+  Armor
+  e - an uncursed rustproof +0 splint mail (being worn)
+  q - a blessed +0 orcish helm (being worn)
+  Rings
+  h - an uncursed ring of invisibility
+  Gems
+  n - a cursed worthless piece of violet glass
+  r - an uncursed worthless piece of yellow glass
+
+Spells known in the end:
+  Name Level Category Fail Memory
+
+Your skills at the end:
+  Fighting Skills
+   martial arts [Basic]
+  Weapon Skills
+   short sword  [Basic]
+   long sword   [Basic]
+   bow          [Basic]
+  Spellcasting Skills
+
+Final Attributes:
+  You were piously aligned.
+  You were fast.           
+  You are dead.            
+
+Vanquished creatures:
+  a green mold            
+  3 geckos                
+  3 jackals               
+  a kobold                
+  2 goblins               
+  3 grid bugs             
+  3 lichens               
+  2 kobold zombies        
+  a newt                  
+                          
+  19 creatures vanquished.
+
+Voluntary challenges:
+  You followed a strict vegan diet.                        
+  You used a wielded weapon 20 times, starting on turn 48. 
+  You read items or engraved 4 times, starting on turn 325.
+  You never genocided any monsters.                        
+  You never polymorphed an object.                         
+  You never changed form.                                  
+  You used no wishes.                                      
+  You never split a pudding.                               
+  You wrote Elbereth's name 2 times, starting on turn 758. 
+  You never violated your personal moral code.             
+
+Dungeon overview:
+                                      
+  The Dungeons of Doom: levels 1 to 3
+  Level 1                             
+        a sink                        
+        a long staircase              
+  Level 2                             
+        stairs to The Gnomish Mines   
+  Level 3 <- You were here            
+        a fountain                    
+                                      
+  The Gnomish Mines:
+  Level 3                             
+        stairs to The Dungeons of Doom
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:256 you reached level 2 of The Dungeons of Doom.                    
+  On T:551 you advanced to experience level 2.                             
+  On T:586 you reached level 1 of The Gnomish Mines.                       
+  On T:676 you reached level 3 of The Dungeons of Doom.                    
+  On T:996 you advanced to experience level 3.                             
+
+Score breakdown:
+  Gold:                   268                    ( 8265 points)
+  Experience:               3 levels             ( 7878 points)
+  Exploration:              3 levels   (  5.88%) ( 6000 points)
+  Discoveries:              2 items    (  0.81%) ( 2705 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:         9 monsters (  2.36%) ( 4610 points)
+  Time penalty:          1012 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    23566        
+
+Latest messages:
+  You miss the brown mold.
+  You are suddenly very cold!
+  You die...
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want an account of creatures vanquished? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Sayonara Jefferina the Samurai, killed by a brown mold...             
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 3 with 23566 points,
+  and 268 pieces of gold, after 1012 moves.                             
+  You were level 3 with a maximum of 30 hit points when you died.       
+                                                                        
+

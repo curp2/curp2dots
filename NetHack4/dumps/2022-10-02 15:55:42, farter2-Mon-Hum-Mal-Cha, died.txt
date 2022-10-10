@@ -1,0 +1,171 @@
+farter2, chaotic male human Monk
+                                                                               
+                ---------                                                      
+    --------    |.......|                                                      
+    |....<..####|.......|                                                      
+    |......|   #.......%.#                                                     
+    |......|   #|.......|#                                                     
+    --.-----   #|.......|#       ------                                        
+      #        #---------#       |`...                                         
+      #        ###       ###     |....                                         
+      #         #          #     |...-----                                     
+      #         #          ###   |...|.{.|                                     
+      #         #            #   |..`.@@{|                                     
+      #         #            ### |...|.{.|   |                                 
+      #         #              # |...----- ..|                                 
+      ##        #              ##-.....`.....|                                 
+     --.--------#                |`.........`.                                 
+     |.........|#                -------------                                 
+     |.........|#                                                              
+     |..........#                                                              
+     -----------                                                               
+                                                                               
+farter2 the Novice
+  Experience level: 3
+  Strength: 18/01
+  Dexterity: 12
+  Constitution: 12
+  Intelligence: 8
+  Wisdom: 15
+  Charisma: 12
+  Health: 0(25)
+  Energy: 20(20)
+  Def: 6
+  Gold: 246
+  Moves: 1187
+
+
+Your Inventory:
+  Coins
+  $ - 246 gold pieces
+  Armor
+  e - an uncursed +2 pair of leather gloves (being worn)
+  n - an uncursed +1 robe (being worn)
+  Comestibles
+  d - 3 uncursed food rations
+  g - 4 uncursed oranges
+  h - 3 uncursed fortune cookies
+  A - 2 uncursed tripe rations
+  Scrolls
+  b - an uncursed scroll of teleportation
+  k - an uncursed scroll of confuse monster
+  v - an uncursed scroll of amnesia
+  Spellbooks
+  a - a blessed spellbook of protection
+  Potions
+  c - an uncursed potion of healing
+  Tools
+  i - a magic marker (0:48)
+  w - an uncursed leash
+  Gems
+  q - an uncursed flint stone (in quiver)
+
+Spells known in the end:
+  Name           Level  Category     Fail   Memory
+  a - protection     1      clerical     0%     95%   
+
+Your skills at the end:
+  Fighting Skills
+   martial arts   [Basic]
+  Weapon Skills
+  Spellcasting Skills
+   healing spells [Basic]
+
+Final Attributes:
+  You were devoutly aligned.
+  You were sleep resistant. 
+  You were poison resistant.
+  You saw invisible.        
+  You were fast.            
+  You are dead.             
+
+Vanquished creatures:
+  a little dog            
+  2 orc zombies           
+  an acid blob            
+  a large kobold          
+  3 giant rats            
+  2 geckos                
+  4 jackals               
+  a fox                   
+  a goblin                
+  6 grid bugs             
+  3 lichens               
+  a newt                  
+                          
+  26 creatures vanquished.
+
+Voluntary challenges:
+  You were vegetarian.                                                             
+  You were an atheist.                                                             
+  You never hit with a wielded weapon.                                             
+  You read items or engraved 3 times, starting on turn 906.                        
+  You never genocided any monsters.                                                
+  You never polymorphed an object.                                                 
+  You never changed form.                                                          
+  You used no wishes.                                                              
+  You never split a pudding.                                                       
+  You never wrote Elbereth's name.                                                 
+  You violated your moral code, losing 1 point of alignment, starting on turn 1187.
+
+Dungeon overview:
+                                                  
+  The Dungeons of Doom: levels 1 to 5
+  Level 1                                         
+        a sink                                    
+        a long staircase                          
+  Level 2                                         
+        some fountains                            
+  Level 3                                         
+        a sink                                    
+        a long staircase                          
+  Level 4                                         
+        an armor shop, an altar to Shan Lai Ching 
+  Level 5 <- You were here                        
+        many fountains                            
+
+History has recorded:
+  On T:1 you entered the Dungeons of Doom to retrieve the Amulet of Yendor!
+  On T:164 you reached level 2 of The Dungeons of Doom.                    
+  On T:469 you reached level 3 of The Dungeons of Doom.                    
+  On T:608 you advanced to experience level 2.                             
+  On T:765 you reached level 4 of The Dungeons of Doom.                    
+  On T:1003 you advanced to experience level 3.                            
+  On T:1070 you reached level 5 of The Dungeons of Doom.                   
+
+Score breakdown:
+  Gold:                   246                    ( 8139 points)
+  Experience:               3 levels             ( 7878 points)
+  Exploration:              5 levels   ( 10.42%) ( 8751 points)
+  Discoveries:              4 items    (  1.43%) ( 3585 points)
+  Valuables value: (no points given unless you survive)        
+  Artifact value:           0                    (    0 points)
+  Variety of kills:        12 monsters (  3.15%) ( 5324 points)
+  Time penalty:          1187 turns              (    0 points)
+  Survival:              died  (score multiplied by  80%)      
+                                                               
+  Total score:                                    26941        
+
+Latest messages:
+  <In what direction?: east>
+  You miss the Oracle.
+  The Oracle gets angry!
+  You are hit by magic missiles appearing from thin air!
+  You die...
+  <Do you want your possessions identified? [ynq]: y>
+  <Do you want to see your attributes? [ynq]: y>
+  <Do you want an account of creatures vanquished? [ynq]: y>
+  <Do you want to see your conduct? [ynq]: y>
+  <Do you want to see a breakdown of your score? [ynq]: y>
+  <Untitled menu: (none selected)>
+  <Spells known in the end:: (none selected)>
+  <Dungeon overview:: (none selected)>
+
+Final status:
+  Goodbye farter2 the Monk, killed by the Oracle...                     
+                                                                        
+  You died in The Dungeons of Doom on dungeon level 5 with 26941 points,
+  and 246 pieces of gold, after 1187 moves.                             
+  You were level 3 with a maximum of 25 hit points when you died.       
+                                                                        
+
