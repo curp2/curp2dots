@@ -1,0 +1,15 @@
+x11-misc/lightdm gtk
+sys-libs/zlib abi_x86_32
+sys-libs/ncurses -gpm
+media-libs/glu abi_x86_32
+media-libs/libjpeg-turbo abi_x86_32
+media-libs/vulkan-loader abi_x86_32
+media-sound/pulseaudio daemon
+dev-libs/libpcre2 pcre32
+media-libs/freetype brotli
+app-arch/brotli abi_x86_32
+games-emulation/libretro-meta dolphin snes9x vba-next pcsx-rearmed mame2015 fbneo desume redream
+games-emulation/retroarch-assets -ozone xmb
+app-dicts/myspell-en l10n_en-US
+media-gfx/graphviz -cairo -X -postscript -pdf 
+>=dev-libs/libpcre2-10.40 abi_x86_32

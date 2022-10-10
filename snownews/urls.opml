@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+	<title>snownews subscriptions</title>
+    </head>
+    <body>
+	<outline text="Rock Paper Shotgun Latest Articles Feed" xmlUrl="https://www.rockpapershotgun.com/feed"/>
+	<outline text="LWN.net" xmlUrl="https://lwn.net/headlines/rss"/>
+	<outline text="New Yorker" xmlUrl="http://www.newyorker.com/feed/everything"/>
+	<outline text="Movies : NPR" xmlUrl="http://www.npr.org/rss/rss.php?id=1045"/>
+	<outline text="News : NPR" xmlUrl="http://www.npr.org/rss/rss.php?id=1001"/>
+	<outline text="(New headlines)" xmlUrl="smartfeed:/newitems"/>
+    </body>
+</opml>

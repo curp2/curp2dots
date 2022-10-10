@@ -1,0 +1,52 @@
+# Half-Life
+media-libs/libsdl2[abi_x86_32,haptic,joystick,opengl,sound,threads,video]
+>=sys-devel/gcc-4.6.0[multilib,cxx]
+>=sys-libs/glibc-2.15[multilib]
+
+# Sid Meier's Civilization VI
+dev-db/sqlite:3[abi_x86_64]
+dev-libs/glib:2[abi_x86_64]
+media-libs/alsa-lib[abi_x86_64]
+media-libs/fontconfig:1.0[abi_x86_64]
+media-libs/libglvnd[abi_x86_64]
+media-libs/openal[abi_x86_64]
+sys-apps/util-linux[abi_x86_64]
+>=sys-devel/gcc-4.6.0
+>=sys-devel/gcc-4.6.0[cxx]
+>=sys-libs/glibc-2.15
+sys-libs/zlib[abi_x86_64]
+x11-libs/libdrm[abi_x86_64]
+x11-libs/libICE[abi_x86_64]
+x11-libs/libSM[abi_x86_64]
+x11-libs/libX11[abi_x86_64]
+
+# Quaver
+app-crypt/mit-krb5[abi_x86_64]
+dev-libs/glib:2[abi_x86_32]
+dev-libs/glib:2[abi_x86_64]
+media-libs/fontconfig:1.0[abi_x86_32]
+media-libs/fontconfig:1.0[abi_x86_64]
+media-libs/freetype:2[abi_x86_32]
+media-libs/freetype:2[abi_x86_64]
+media-libs/jpeg-compat:8[abi_x86_32]
+media-libs/jpeg-compat:8[abi_x86_64]
+media-libs/libexif[abi_x86_32]
+media-libs/libexif[abi_x86_64]
+media-libs/libpng-compat:1.2[abi_x86_32]
+media-libs/libpng-compat:1.2[abi_x86_64]
+net-misc/curl[abi_x86_64]
+>=sys-devel/gcc-4.6.0
+>=sys-devel/gcc-4.6.0[cxx]
+>=sys-devel/gcc-4.6.0[multilib,cxx]
+>=sys-libs/glibc-2.15
+>=sys-libs/glibc-2.15[multilib]
+sys-libs/zlib[abi_x86_64]
+x11-libs/cairo[abi_x86_32]
+x11-libs/cairo[abi_x86_64]
+x11-libs/libX11[abi_x86_32]
+x11-libs/libX11[abi_x86_64]
+
+# RimWorld
+>=sys-devel/gcc-4.6.0
+>=sys-libs/glibc-2.15
+sys-libs/zlib[abi_x86_64]

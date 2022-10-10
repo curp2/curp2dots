@@ -1,0 +1,1 @@
+media-libs/mesa gles1 d3d9 osmesa -opencl -vaapi -vdpau -zink -xa -vulkan-overlay -xvmc

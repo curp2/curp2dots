@@ -1,0 +1,29 @@
+# created by eselect-repo
+
+[guru]
+location = /var/db/repos/guru
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/guru.git
+
+[MyEbuilds]
+location = /var/db/repos/MyEbuilds
+
+[steam-overlay]
+location = /var/db/repos/steam-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/steam-overlay.git
+
+[menelkir]
+location = /var/db/repos/menelkir
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/menelkir.git
+
+[nest]
+location = /var/db/repos/nest
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/nest.git
+
+[zeldu]
+location = /var/db/repos/zeldu
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/zeldu.git

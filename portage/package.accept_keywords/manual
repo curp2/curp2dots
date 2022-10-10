@@ -1,0 +1,31 @@
+# required by x11-misc/lightdm-mini-greeter (argument)
+=x11-misc/lightdm-mini-greeter-0.5.1 ~amd64
+=x11-misc/primus-0.2-r3 ~amd64
+=x11-libs/libva-intel-media-driver-22.4.4 ~amd64
+*/*::steam-overlay 
+=games-util/game-device-udev-rules-20220311 ~amd64
+=media-libs/glu-9999 ** 
+=media-libs/libogg-1.3.5 ** 
+=media-libs/libpulse-16.1 ~amd64
+=net-im/discord-ptb-bin-0.0.29 ~amd64
+=net-im/discord-bin-0.0.18 ~amd64
+=app-misc/ddcutil-1.2.2 ~amd64
+=app-misc/flavours-base16-git-9999 ~amd64
+# required by nnn (argument)
+=app-misc/nnn-4.5 ~amd64
+# required by lutris (argument)
+=games-util/lutris-0.5.10.1 ~amd64
+# required by mopidy (argument)
+=media-sound/mopidy-3.3.0 ~amd64
+# required by media-sound/mopidy-3.3.0::guru[-test]
+# required by mopidy (argument)
+=dev-python/pykka-3.1.1 ~amd64
+=games-engines/openmw-0.47.0-r1 ~amd64
+=dev-games/mygui-3.4.1 ~amd64
+=dev-games/recastnavigation-1.5.1_p20210305 ~amd64
+=dev-games/openscenegraph-openmw-3.6_p20211017-r1 ~amd64
+=media-video/shotcut-22.04.25-r1 ~amd64
+=games-arcade/SpaceCadetPinball-2.0.1 ~amd64
+<=games-util/hid-nintendo-9999 **
+=media-sound/spotifyd-9999 **
+=app-text/md4c-9999 **

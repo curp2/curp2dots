@@ -1,0 +1,17 @@
+sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
+sys-firmware/intel-microcode @BINARY-REDISTRIBUTABLE
+x11-drivers/nvidia-drivers NVIDIA-r2
+x11-libs/libva-intel-media-driver @BINARY-REDISTRIBUTABLE
+games-util/steam-launcher ValveSteamLicense
+media-fonts/corefonts MSttfEULA
+net-im/discord-ptb-bin all-rights-reserved
+net-im/discord-bin all-rights-reserved
+app-arch/unrar unRAR
+media-fonts/kochi-substitute free-noncomm
+games-emulation/fbneo-libretro FBA
+games-emulation/mame2015-libretro MAME-GPL
+games-emulation/libretro-snes9x Snes9x
+games-emulation/vba-next-libretro vba
+dev-python/bcrypt Unicode-DFS-2016
+sys-apps/man-pages-posix freedist
+sys-firmware/bluez-firmware bluez-firmware

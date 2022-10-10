@@ -1,0 +1,6 @@
+[[items]]
+file = "~/.Xresources"
+template = "Xresources"
+start = '! Start Flavours'
+end = '! End Flavours'
+
