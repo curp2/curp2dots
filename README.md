@@ -3,6 +3,7 @@ curp2's dotfile extravaganza.
 
 Here's my neofetch copy/pasted:
 
+```
 OS: Gentoo Linux x86_64
 Host: 20Y3008EUS ThinkPad P1 Gen 4i
 Kernel: 5.19.12-gentoo
@@ -18,4 +19,4 @@ GPU: NVIDIA RTX A3000 Mobile
 GPU: Intel TigerLake-H GT1 [UHD Graphics]
 Memory: 3.64GiB / 31.06GiB (11%)
 Disk (/): 836G / 890G (95%)
-
+```
