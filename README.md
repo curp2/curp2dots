@@ -7,7 +7,7 @@ root@rpento
 OS: Gentoo Linux x86_64 
 Host: 20Y3008EUS ThinkPad P1 Gen 4i 
 Kernel: 5.19.12-gentoo 
-Uptime: 4 hours, 12 mins 
+Uptime: 4 hours, 18 mins 
 Packages: 1317 (emerge) 
 Shell: bash 5.1.16 
 Resolution: 3840x2400 
@@ -19,6 +19,6 @@ Terminal Font: Source Code Pro
 CPU: 11th Gen Intel i7-11850H (16) @ 2.500GHz 
 GPU: NVIDIA RTX A3000 Mobile 
 GPU: Intel TigerLake-H GT1 [UHD Graphics] 
-Memory: 4278MiB / 31806MiB 
+Memory: 4540MiB / 31806MiB 
 
 ```
