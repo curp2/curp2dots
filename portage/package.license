@@ -1,7 +1,8 @@
 sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
 sys-firmware/intel-microcode @BINARY-REDISTRIBUTABLE
 x11-drivers/nvidia-drivers NVIDIA-r2
-x11-libs/libva-intel-media-driver @BINARY-REDISTRIBUTABLE
+# move x11-libs/libva-intel-media-driver media-libs/libva-intel-media-driver
+media-libs/libva-intel-media-driver @BINARY-REDISTRIBUTABLE
 games-util/steam-launcher ValveSteamLicense
 media-fonts/corefonts MSttfEULA
 net-im/discord-ptb-bin all-rights-reserved

@@ -1181,7 +1181,8 @@
 # required by media-libs/mesa-22.1.7::gentoo[vaapi]
 # required by @selected
 # required by @world (argument)
->=x11-libs/libva-2.15.0 abi_x86_32
+# move x11-libs/libva media-libs/libva
+>=media-libs/libva-2.15.0 abi_x86_32
 # required by media-libs/mesa-22.1.7::gentoo[vdpau]
 # required by @selected
 # required by @world (argument)
@@ -1225,3 +1226,6 @@
 # required by @selected
 # required by @world (argument)
 >=x11-libs/libXtst-1.2.4 abi_x86_32
+# required by app-text/bibletime-3.0.3-r4::gentoo
+# required by bibletime (argument)
+>=app-text/sword-1.9.0-r1 curl
